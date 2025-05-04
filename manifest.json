@@ -1,0 +1,11 @@
+{
+	"id": "simple-scrolling-shortcuts",
+	"name": "Simple Scrolling Shortcuts",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.10",
+	"description": "Provides configurable line-based editor scrolling via hotkeys with smooth repeat or single scroll modes.",
+	"author": "Haeo",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
