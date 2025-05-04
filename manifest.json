@@ -5,7 +5,7 @@
 	"minAppVersion": "1.8.10",
 	"description": "Provides configurable line-based editor scrolling via hotkeys with smooth repeat or single scroll modes.",
 	"author": "Haeo",
-	"authorUrl": "https://obsidian.md",
+	"authorUrl": "https://github.com/Haeo/obsidian-simple-scrolling-shortcuts",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
